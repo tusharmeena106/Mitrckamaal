@@ -1744,7 +1744,7 @@ export const resources: Resource[] = [
     subject: "Digital Electronics",
     category: "pyq",
     label: "PYQ 1",
-    url: "",
+    url: "https://drive.google.com/file/d/1ARPnLN-ypinaJI1ZYlsYuMbuLz9xrBYt/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -1843,7 +1843,7 @@ export const resources: Resource[] = [
     subject: "Software Engineering",
     category: "pyq",
     label: "PYQ 1",
-    url: "",
+    url: "https://drive.google.com/file/d/1kYqAsQxnQi2lCQNCMfxmE8JXlzfhXitK/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -1942,7 +1942,7 @@ export const resources: Resource[] = [
     subject: "OOPS",
     category: "pyq",
     label: "PYQ 1",
-    url: "",
+    url: "https://drive.google.com/file/d/1UlAt2CBXiM1TEBmmhzfrwu8q6btdEkMe/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -2041,7 +2041,7 @@ export const resources: Resource[] = [
     subject: "DSA",
     category: "pyq",
     label: "PYQ 1",
-    url: "",
+    url: "https://drive.google.com/file/d/1-v0FwdbR-meDV6r8ipGrM9Qxdkqr2-3z/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -2140,7 +2140,7 @@ export const resources: Resource[] = [
     subject: "Advanced Engineering Mathematics",
     category: "pyq",
     label: "PYQ 1",
-    url: "",
+    url: "https://drive.google.com/file/d/14bQVvHr0X-6qKKhTQT597BPZzGGiv5w5/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -2239,7 +2239,7 @@ export const resources: Resource[] = [
     subject: "Linux & Shell Programming",
     category: "pyq",
     label: "PYQ 1",
-    url: "",
+    url: "https://drive.google.com/file/d/1h7_F-iKpomrDBhiXsZPS45696D84oMC4/view?usp=sharing",
   },
   {
     semesterId: 3,
