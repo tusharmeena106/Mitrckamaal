@@ -1,0 +1,41 @@
+[
+  {
+    "id": "02bbd2de-720c-4c78-b1ed-fdfeb605156e",
+    "semesterId": 3,
+    "subject": "DSA",
+    "category": "file",
+    "label": "dsa exp 1 or 2",
+    "originalName": "Google Drive Link",
+    "storedName": null,
+    "driveLink": "https://drive.google.com/file/d/1AKvFEzGyWjZfpo46gBRtLqLJey9yUcve/view?usp=sharing",
+    "size": 0,
+    "uploadedAt": "2026-07-21T15:19:20.650Z",
+    "downloads": 0
+  },
+  {
+    "id": "3ea94a82-d06c-4d45-957e-bbfda8efc505",
+    "semesterId": 3,
+    "subject": "OOPS",
+    "category": "file",
+    "label": "oops exp 1",
+    "originalName": "Google Drive Link",
+    "storedName": null,
+    "driveLink": "https://drive.google.com/file/d/1pOlc0f7oN0ZX5T3iictqtrf9lEqfLDpW/view?usp=sharing",
+    "size": 0,
+    "uploadedAt": "2026-07-21T15:16:18.027Z",
+    "downloads": 0
+  },
+  {
+    "id": "0396d195-d49c-442f-aa00-4c134512062d",
+    "semesterId": 3,
+    "subject": "Digital Electronics",
+    "category": "assignment",
+    "label": null,
+    "originalName": "Google Drive Link",
+    "storedName": null,
+    "driveLink": "https://drive.google.com/file/d/1-73n880NeMjj3X56JJRXpHa5lYazQvG_/view?usp=sharing",
+    "size": 0,
+    "uploadedAt": "2026-07-21T15:12:42.162Z",
+    "downloads": 0
+  }
+]
