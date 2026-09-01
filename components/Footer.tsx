@@ -61,7 +61,9 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-blue-600 py-4 text-center text-sm text-blue-100">
-        © 2026 MITRCKamaal | Made by Tushar Meena
+        © 2026 MITRCKamaal | Team members
+                           Saurabh singh       Sumit kumar
+                           Yashvardhan singh   Tushar meena
       </div>
     </footer>
   );
