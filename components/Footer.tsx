@@ -60,11 +60,18 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="border-t border-blue-600 py-4 text-center text-sm text-blue-100">
-        © 2026 MITRCKamaal | Team members
-                           Saurabh singh       Sumit kumar
-                           Yashvardhan singh   Tushar meena
-      </div>
+      <div className="border-t border-blue-400/30 py-5 text-center">
+  <p className="text-sm text-blue-200">
+    © 2026 MITRCKamaal
+  </p>
+
+  <p className="mt-1 text-base font-semibold tracking-wide text-white">
+    Made with ❤️ by{" "}
+    <span className="italic text-blue-100">
+      Tushar Meena
+    </span>
+  </p>
+</div>
     </footer>
   );
 }
