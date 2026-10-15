@@ -2027,7 +2027,7 @@ export const resources: Resource[] = [
     subject: "DSA",
     category: "assignment",
     label: "Assignment 4",
-    url: "",
+    url: "https://drive.google.com/file/d/1VYVbtTcYPvB7a4maAscCCqHGOiH2vPMS/view?usp=sharing",
   },
   {
     semesterId: 3,
