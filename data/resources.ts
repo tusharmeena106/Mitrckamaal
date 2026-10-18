@@ -1704,6 +1704,13 @@ export const resources: Resource[] = [
     label: "Unit 5 Notes",
     url: "https://drive.google.com/file/d/1lAxoWguH4YByRaPWVkq4dm53m3OxlRQz/view?usp=sharing",
   },
+   {
+    semesterId: 3,
+    subject: "Digital Electronics",
+    category: "notes",
+    label: "all unit merged hand written",
+    url: "https://drive.google.com/file/d/1voHqpnFdJ6lwPjcZxDSbGnhWANnjnYoP/view?usp=sharing",
+  },
   {
     semesterId: 3,
     subject: "Digital Electronics",
@@ -1893,14 +1900,14 @@ export const resources: Resource[] = [
     subject: "OOPS",
     category: "notes",
     label: "Unit 4 Notes",
-    url: "",
+    url: "https://drive.google.com/file/d/1SVqnJPdsnceyjEUyMvn651UifYqVrRRa/view?usp=sharing",
   },
   {
     semesterId: 3,
     subject: "OOPS",
     category: "notes",
     label: "Unit 5 Notes",
-    url: "",
+    url: "https://drive.google.com/file/d/1dm8FSJCUBrQ9vtdDByP1HOpM8FLN83aR/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -1977,8 +1984,8 @@ export const resources: Resource[] = [
     semesterId: 3,
     subject: "DSA",
     category: "notes",
-    label: "Unit 2 Notes",
-    url: "",
+    label: "Unit 2(tree) Notes",
+    url: "https://drive.google.com/file/d/1wYQrn1pUKU-ob8GFwZdrTa7BKiUaNxfh/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -1998,8 +2005,8 @@ export const resources: Resource[] = [
     semesterId: 3,
     subject: "DSA",
     category: "notes",
-    label: "Unit 5 Notes",
-    url: "",
+    label: "Unit 5(graph) Notes",
+    url: "https://drive.google.com/file/d/1SheAE8A4tloweFiBxkrdTXZUxtvnp0rp/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -2090,8 +2097,8 @@ export const resources: Resource[] = [
     semesterId: 3,
     subject: "Advanced Engineering Mathematics",
     category: "notes",
-    label: "Unit 4 Notes",
-    url: "",
+    label: "Math 1-5 unit by satish sir",
+    url: "https://drive.google.com/file/d/10nbB5jw1viNK-imWZ_7ZeSK7XCIicG-O/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -2126,7 +2133,7 @@ export const resources: Resource[] = [
     subject: "Advanced Engineering Mathematics",
     category: "assignment",
     label: "Assignment 4",
-    url: "",
+    url: "https://drive.google.com/file/d/14J-vxa0JMpMJ8YxTARCdkLEchhuhRTu0/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -2190,7 +2197,7 @@ export const resources: Resource[] = [
     subject: "Linux & Shell Programming",
     category: "notes",
     label: "Unit 4 Notes",
-    url: "",
+    url: "https://drive.google.com/file/d/1S94HQSygCcmqb3vyaDLn4JhLqqOZd6j8/view?usp=sharing",
   },
   {
     semesterId: 3,
@@ -2437,8 +2444,8 @@ export const resources: Resource[] = [
     semesterId: 3,
     subject: "DSA",
     category: "file",
-    label: "Practical 5",
-    url: "",
+    label: "Practical 18-21(all completed)",
+    url: "https://drive.google.com/file/d/1ckZZMYz5i8Jf8QAF_INdi7uFBN5FQqXK/view?usp=sharing",
   },
   {
     semesterId: 3,
