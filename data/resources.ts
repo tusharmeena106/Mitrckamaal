@@ -2232,7 +2232,7 @@ export const resources: Resource[] = [
     subject: "Linux & Shell Programming",
     category: "assignment",
     label: "Assignment 4",
-    url: "",
+    url: "https://drive.google.com/file/d/1jGbPWo5zhzydJXGp2JBdrvjq0lPAmYt6/view?usp=sharing",
   },
   {
     semesterId: 3,
