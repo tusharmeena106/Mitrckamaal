@@ -2,7 +2,7 @@ import { notices } from "@/data/notices";
 
 export default function NoticeBoard() {
   return (
-    <div className="animate-slide-up rounded-2xl bg-white p-6 shadow-lg transition-shadow hover:shadow-xl">
+    <div id="notices" className="animate-slide-up rounded-2xl bg-white p-6 shadow-lg transition-shadow hover:shadow-xl">
       <h3 className="flex items-center gap-2 text-xl font-bold text-black">
         <span className="animate-wiggle inline-block">📢</span> Notices
       </h3>
